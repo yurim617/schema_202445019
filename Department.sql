@@ -1,0 +1,4 @@
+CREATE TABLE Department (
+  DeptID CHAR(2) PRIMARY KEY,
+  DeptName VARCHAR(20)
+) DEFAULT CHARSET=utf8mb4;
